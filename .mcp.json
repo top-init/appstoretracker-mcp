@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "appstoretracker": {
+      "type": "http",
+      "url": "https://www.appstoretracker.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${APPSTORETRACKER_API_KEY}"
+      }
+    }
+  }
+}
