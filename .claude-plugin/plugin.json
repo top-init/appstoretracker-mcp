@@ -1,0 +1,18 @@
+{
+  "name": "appstoretracker",
+  "description": "Daily iOS App Store top free rankings, ranking history and app metadata across 114 storefronts, through the App Store Tracker MCP server.",
+  "version": "1.0.0",
+  "author": { "name": "App Store Tracker", "url": "https://www.appstoretracker.com/" },
+  "homepage": "https://www.appstoretracker.com/mcp",
+  "repository": "https://github.com/top-init/appstoretracker-mcp",
+  "license": "MIT",
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "App Store Tracker API key",
+      "description": "Free key from https://www.appstoretracker.com/mcp",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}
