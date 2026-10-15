@@ -59,6 +59,16 @@ claude mcp add --transport http appstoretracker https://www.appstoretracker.com/
 }
 ```
 
+## Find it in MCP directories
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.appstoretracker)
+- [Smithery](https://smithery.ai/server/topinit/appstoretracker)
+- [MCP.so](https://mcp.so/servers/app-store-tracker)
+- [MCP Servers (mcpservers.org)](https://mcpservers.org/servers/www-appstoretracker-com-mcp)
+- [AllMCPs](https://allmcps.com/mcp/app-store-tracker)
+- [MCP Repository](https://mcprepository.com/top-init/appstoretracker-mcp-registry-listing)
+- [AI Indigo](https://aiindigo.com/tool/app-store-tracker)
+
 ## Also from the same team
 
 - [Social Growth Engineers MCP](https://github.com/top-init/socialgrowthengineers-mcp-registry-listing): viral short-form videos, hooks and app growth playbooks
